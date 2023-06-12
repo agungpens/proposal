@@ -26,6 +26,3 @@ use case
 - perbaiki bulat"
 
 
-daftar pustaka
-- cari sistem yang sama / atau mirip / berkaitan
-- 
