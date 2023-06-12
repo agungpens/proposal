@@ -1,0 +1,31 @@
+judul : 
+sistem manajemen administrasi MOU di AKN BLitar
+
+user : 
+- admin
+- pelihat
+- pengupload
+
+- upload apakah harus ke admin ? 
+jawaban : tidak harus
+
+
+
+######
+- menambah data mitra(instansi)
+- 
+
+dfd - 1
+- kotak _ tabel aja
+
+dfd - 2
+- lebih detail mengenai proses
+- lebih banyak setiap proses
+
+use case 
+- perbaiki bulat"
+
+
+daftar pustaka
+- cari sistem yang sama / atau mirip / berkaitan
+- 

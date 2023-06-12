@@ -1,0 +1,17 @@
+Berikut adalah tujuan dan manfaat dari pengembangan sistem pengolahan data MOU berbasis web dan mobile:
+
+Tujuan:
+
+Meningkatkan efisiensi dalam pengolahan data MOU
+Memudahkan pengguna dalam mencari dan menemukan dokumen MOU yang dibutuhkan
+Meningkatkan transparansi dalam pengelolaan data MOU
+Memudahkan pengguna dalam mengelola dan memperbarui data MOU
+Meningkatkan keamanan dalam pengelolaan data MOU
+Manfaat:
+
+Meningkatkan kualitas pelayanan pada instansi yang menggunakan sistem pengolahan data MOU
+Memudahkan pengguna dalam mencari dan menemukan dokumen MOU yang dibutuhkan
+Mempercepat proses pengolahan data MOU
+Meningkatkan transparansi dalam pengelolaan data MOU
+Mengurangi kesalahan dalam pengolahan data MOU
+Meningkatkan keamanan dalam pengelolaan data MOU.

@@ -1,0 +1,39 @@
+Baik, berikut ini adalah uraian untuk Bab 2 yang berjudul Deskripsi Sistem:
+
+2.1 Problem Domain
+Pada umumnya, pengolahan data MOU di suatu instansi masih dilakukan secara manual, baik dalam bentuk dokumen fisik maupun file elektronik yang tidak teratur. Hal ini menyebabkan proses pencarian, pengelolaan, dan pembaruan data MOU menjadi sulit dan memakan waktu yang lama. Selain itu, kurangnya transparansi dalam pengelolaan data MOU juga dapat menyebabkan kesalahan dalam pengolahan data dan berpotensi menimbulkan risiko keamanan.
+
+2.2 Solusi
+Untuk mengatasi masalah di atas, maka dirancanglah sebuah sistem pengolahan data MOU berbasis web dan mobile. Sistem ini bertujuan untuk memudahkan pengguna dalam mencari, mengelola, dan memperbarui data MOU, serta meningkatkan transparansi dan keamanan dalam pengelolaan data MOU.
+
+2.3 Model yang Digunakan
+Dalam pengembangan sistem pengolahan data MOU berbasis web dan mobile ini, digunakan model pengembangan sistem berbasis web yaitu Model View Controller (MVC). Model MVC memisahkan antara tampilan (view), logika bisnis (model), dan pengendali (controller). Model digunakan untuk mengelola data, view digunakan untuk menampilkan data, dan controller digunakan untuk mengendalikan interaksi antara model dan view.
+
+2.4 Rancangan Laporan Akhir
+Laporan akhir yang akan dihasilkan dari pengembangan sistem pengolahan data MOU berbasis web dan mobile ini terdiri dari:
+
+Pendahuluan: membahas latar belakang, identifikasi masalah, tujuan, manfaat, dan metode pengembangan sistem.
+Deskripsi Sistem: membahas model yang digunakan, rancangan laporan akhir, variabel dalam laporan akhir, teknik pengumpulan data, dan analisis data.
+Hasil dan Pembahasan: membahas hasil pengembangan sistem dan pembahasannya.
+Kesimpulan dan Saran: membahas kesimpulan dari hasil pengembangan sistem dan memberikan saran untuk pengembangan selanjutnya.
+2.5 Variabel dalam Laporan Akhir
+Variabel dalam laporan akhir ini terdiri dari:
+
+Efisiensi dalam pengolahan data MOU
+Kemudahan dalam pencarian dan penemuan data MOU
+Transparansi dalam pengelolaan data MOU
+Kemudahan dalam mengelola dan memperbarui data MOU
+Keamanan dalam pengelolaan data MOU
+2.6 Teknik Pengumpulan Data
+Teknik pengumpulan data yang digunakan adalah observasi, wawancara, dan dokumentasi. Observasi digunakan untuk mengamati proses pengolahan data MOU secara manual. Wawancara dilakukan untuk mendapatkan informasi dari pengguna dan stakeholder terkait dengan pengolahan data MOU. Dokumentasi digunakan untuk mengumpulkan dokumen-dokumen terkait pengolahan data MOU yang telah dilakukan sebelumnya.
+
+2.7 Analisis Data
+Analisis data dilakukan dengan memeriksa hasil dari observasi, wawancara, dan dokumentasi yang telah dilakukan. Data yang diperoleh kemudian diolah dan digunakan sebagai dasar untuk merancang sistem pengolahan data MOU berbasis web dan mobile yang efektif dan efisien. Selain itu, analisis data juga dilakukan untuk mengevaluasi kinerja sistem dan mengidentifikasi masalah yang muncul selama pengembangan.
+
+Dalam pengembangan sistem, digunakan metode waterfall sebagai pendekatan pengembangan. Metode ini membagi siklus pengembangan menjadi beberapa fase seperti analisis, desain, implementasi, pengujian, dan pemeliharaan. Setiap fase diawali dengan pengumpulan dan analisis data untuk merancang sistem yang efektif dan efisien.
+
+Dalam fase analisis, dilakukan analisis terhadap data yang telah dikumpulkan sebelumnya untuk merancang kebutuhan sistem. Kemudian, dalam fase desain, dilakukan perancangan sistem yang terdiri dari rancangan antarmuka, database, serta arsitektur sistem. Setelah itu, dilanjutkan dengan fase implementasi, di mana sistem dikembangkan menggunakan bahasa pemrograman dan teknologi yang sesuai dengan kebutuhan.
+
+Setelah fase implementasi selesai, dilakukan pengujian sistem untuk mengetahui kinerja sistem dan mengidentifikasi masalah yang muncul. Setelah semua masalah diatasi, sistem diimplementasikan secara resmi dan dapat digunakan oleh pengguna.
+
+Dengan penggunaan sistem pengolahan data MOU berbasis web dan mobile ini, diharapkan pengguna dapat dengan mudah mencari, mengelola, dan memperbarui data MOU secara efisien dan efektif. Selain itu, sistem ini juga dapat meningkatkan transparansi dan keamanan dalam pengelolaan data MOU.

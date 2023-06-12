@@ -1,0 +1,36 @@
+judul bertele tele
+
+sistem administrasi informasi mou di akn blitar 
+
+#latar belakang
+administrasi mou (problem domain)
+urgensi administrasi mou di akn, kenapa penting ?
+masuk kemasalah , 
+
+alenia 3 masuk ke deskripsi solusi
+
+tujuan 
+masukan kata" dijuddul dan fitur
+deskripsikan web dan mobile
+
+1.2
+paragrafsaja , tidak abc
+
+1.3 tujuan
+paragrafsaja , tidak abc
+1.4 manfaat 
+
+abc
+
+bab 2
+2.1 harus detil
+
+2.2 
+tujuan tapi lebih detil
+user yangterlibat, 
+fitur web dan mobile untuk apa 
+
+
+2.3
+deskripsikan garis besar dulu
+gambar dulu , baru deskripsikan

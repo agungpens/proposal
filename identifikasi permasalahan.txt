@@ -1,0 +1,16 @@
+Berikut adalah identifikasi beberapa permasalahan yang muncul dalam pengolahan data MOU secara manual, serta kebutuhan pengguna terhadap sistem pengolahan data MOU berbasis web dan mobile:
+
+Kesulitan dalam pencarian data MOU
+Dalam pengolahan data MOU secara manual, seringkali terjadi kesulitan dalam pencarian data MOU yang diperlukan. Hal ini dikarenakan dokumen MOU yang disimpan masih dalam bentuk fisik atau file elektronik yang tidak teratur. Oleh karena itu, diperlukan sistem yang dapat memudahkan pengguna untuk mencari dan menemukan dokumen MOU yang dibutuhkan.
+
+Kurangnya transparansi dalam pengolahan data MOU
+Dalam pengolahan data MOU secara manual, terkadang terjadi kurangnya transparansi dalam pengelolaan data MOU. Hal ini disebabkan karena dokumen MOU yang disimpan masih dalam bentuk fisik atau file elektronik yang tidak terorganisir dengan baik. Oleh karena itu, diperlukan sistem yang dapat meningkatkan transparansi dalam pengelolaan data MOU.
+
+Kesulitan dalam mengelola dan memperbarui data MOU
+Dalam pengolahan data MOU secara manual, terkadang terjadi kesulitan dalam mengelola dan memperbarui data MOU. Hal ini disebabkan karena dokumen MOU yang disimpan masih dalam bentuk fisik atau file elektronik yang tidak teratur. Oleh karena itu, diperlukan sistem yang dapat memudahkan pengguna dalam mengelola dan memperbarui data MOU.
+
+Membutuhkan waktu yang lama untuk menemukan dokumen MOU yang dibutuhkan
+Dalam pengolahan data MOU secara manual, seringkali membutuhkan waktu yang lama untuk menemukan dokumen MOU yang dibutuhkan. Hal ini disebabkan karena dokumen MOU yang disimpan masih dalam bentuk fisik atau file elektronik yang tidak teratur. Oleh karena itu, diperlukan sistem yang dapat memudahkan pengguna dalam mencari dan menemukan dokumen MOU yang dibutuhkan.
+
+Kurangnya keamanan data MOU
+Dalam pengolahan data MOU secara manual, terkadang terjadi kurangnya keamanan dalam pengelolaan data MOU. Hal ini disebabkan karena dokumen MOU yang disimpan masih dalam bentuk fisik atau file elektronik yang tidak terlindungi dengan baik. Oleh karena itu, diperlukan sistem yang dapat meningkatkan keamanan dalam pengelolaan data MOU.
